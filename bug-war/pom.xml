@@ -5,7 +5,7 @@
 	<parent>
 		<groupId>com.example</groupId>
 		<artifactId>bug</artifactId>
-		<version>0.0.1-SNAPSHOT</version>
+		<version>1.0</version>
 	</parent>
 	<artifactId>bug-war</artifactId>
 	<name>bug-war</name>
@@ -28,7 +28,7 @@
 		<dependency>
 			<groupId>com.example</groupId>
 			<artifactId>bug-fragment</artifactId>
-			<version>0.0.1-SNAPSHOT</version>
+			<version>1.0</version>
 		</dependency>
 		
 		<!-- Provided dependencies -->
